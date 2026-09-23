@@ -5,3 +5,9 @@ Answer: This provides version control especially if we are working in groups. It
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: It can be applied to the healthcare field and be used to predict diseases such as tumors.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merging preserves the repisotory's history while rebasing rewrites the history to create a clean and linear timeline. 
+
